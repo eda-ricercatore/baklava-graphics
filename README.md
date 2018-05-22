@@ -1,16 +1,51 @@
 # baklava-graphics
 A repository for experimenting with drawing figures/graphics with computer languages.
 
-##	Asymptote Vector Graphics Language
+##	*Asymptote* Vector Graphics Language
 
 
 Asymptote vector graphics language
++ https://code.google.com/archive/p/asy-graphtheory/downloads
++ https://github.com/cuichaox/sml4asy
++ http://asymptote.sourceforge.net
++ https://en.wikipedia.org/wiki/Asymptote_(vector_graphics_language)
++ http://math.uchicago.edu/~cstaats/Charles_Staats_III/Notes_and_papers_files/asymptote_tutorial.pdf
++ http://asy.marris.fr/asymptote/
++ http://www.piprime.fr/asymptote/
++ http://artofproblemsolving.com/wiki/index.php?title=Asymptote:_Macros_and_Packages
++ http://artofproblemsolving.com/wiki/index.php?title=Asymptote:_Useful_functions
++ http://artofproblemsolving.com/wiki/index.php?title=Asymptote:_Logical_Operators_and_Loops
++ http://artofproblemsolving.com/wiki/index.php?title=Asymptote:_Advanced_Configuration
++ http://artofproblemsolving.com/wiki/index.php?title=Asymptote:_Advanced
++ http://artofproblemsolving.com/wiki/index.php?title=Asymptote:_Useful_commands_and_their_Output
++ http://artofproblemsolving.com/wiki/index.php?title=Asymptote:_Reference
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 ##	Ti*k*Z
 
-Ti*k*Z
+Resources for Ti*k*Z:
++ https://en.wikipedia.org/wiki/PGF/TikZ
++ https://perso.ensta-paristech.fr/~kielbasi/tikzuml/var/files/doc/tikzumlmanual.pdf
++ https://perso.ensta-paristech.fr/~kielbasi/tikzuml/
++ https://www.overleaf.com/latex/templates/uml-diagrams-with-tikz-uml/ftfzzpmwnjqw#.WwRqim0keL4
++ http://mtc-m21b.sid.inpe.br/col/urlib.net/www/2014/03.25.23.20/doc/tikzuml-v1.0b/doc/tikz-uml-userguide.pdf
++ https://github.com/lebedov/tikzumlx/blob/master/tikz-uml.sty
++ https://github.com/lebedov/tikzumlx
 
 
 
@@ -19,26 +54,45 @@ Ti*k*Z
 
 
 
-## MetaPost (and Metafont)
 
 
-Notes about *MetaPost* (and *Metafont*)..
+
+## *MetaPost* (and *Metafont*)
+
+
+Notes about *MetaPost* (and *Metafont*).
 
 
 Use the *Makefile* to compile the diagrams, figures, and schematics into PDF
 	files. 
 
 
+Resources for *MetaPost*:
++ https://en.wikipedia.org/wiki/MetaPost
++ "MetaUML is a GNU GPL MetaPost library for typesetting exquisite UML diagrams."
+	- http://archive.li/ZSe7q
+	- http://edutechwiki.unige.ch/en/MetaUML
+	- https://github.com/ogheorghies/MetaUML
 
 
 
 
-##	Graphviz
 
 
 
-Graphviz
 
+
+
+
+
+
+
+##	*Graphviz*
+
+
+
+Resources for *Graphviz*
++ http://www.linuxdevcenter.com/pub/a/linux/2004/05/06/graphviz_dot.html
 
 
 

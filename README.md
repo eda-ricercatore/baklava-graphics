@@ -4,7 +4,7 @@ A repository for experimenting with drawing figures/graphics with computer langu
 ##	*Asymptote* Vector Graphics Language
 
 
-Asymptote vector graphics language
+Resources for *Asymptote* vector graphics language:
 + https://code.google.com/archive/p/asy-graphtheory/downloads
 + https://github.com/cuichaox/sml4asy
 + http://asymptote.sourceforge.net
@@ -40,6 +40,7 @@ Asymptote vector graphics language
 
 Resources for Ti*k*Z:
 + https://en.wikipedia.org/wiki/PGF/TikZ
++ http://www.texample.net/tikz/
 + https://perso.ensta-paristech.fr/~kielbasi/tikzuml/var/files/doc/tikzumlmanual.pdf
 + https://perso.ensta-paristech.fr/~kielbasi/tikzuml/
 + https://www.overleaf.com/latex/templates/uml-diagrams-with-tikz-uml/ftfzzpmwnjqw#.WwRqim0keL4
@@ -91,8 +92,40 @@ Resources for *MetaPost*:
 
 
 
-Resources for *Graphviz*
+Resources for *Graphviz*:
++ Viewer for *Graphviz* online: http://www.webgraphviz.com
++ https://www.graphviz.org
++ https://gitlab.com/graphviz/graphviz.git
++ https://gitlab.com/graphviz/graphviz/
++ http://graphviz.org/documentation/
++ https://en.wikipedia.org/wiki/Graphviz
 + http://www.linuxdevcenter.com/pub/a/linux/2004/05/06/graphviz_dot.html
++ UML
+	- http://www.ffnn.nl/pages/articles/media/uml-diagrams-using-graphviz-dot.php
+	- https://lornajane.net/posts/2011/uml-diagrams-with-graphviz
+	- https://stackoverflow.com/questions/303608/graphviz-for-documentation
+	- https://fsteeg.wordpress.com/2006/11/17/uml-class-diagrams-with-graphviz/
+	- http://blog.konca.com/2013/08/25/draws-uml-class-diagram-with-graphviz/
+	- https://www.linux.com/news/create-relationship-diagrams-graphviz
+	- https://www.rubydoc.info/gems/ruby-uml/0.2.2/UML/Graphviz/Attributes
+
+
+
+
+
+### *PlantUML*
+
+Resources for *PlantUML*:
++ http://plantuml.com/download
++ http://plantuml.com/activity-diagram-legacy
++ https://en.wikipedia.org/wiki/PlantUML
++ http://www.wilkening-online.de/programmieren/c++-user-treffen-aachen/2016_05_12/PlantUML_GeorgHellack.pdf
++ https://media.readthedocs.org/pdf/plantweb/latest/plantweb.pdf
++ https://modeling-languages.com/list-mddmda-books/
++ https://modeling-languages.com/debugging-teams-geek-book/
++ https://modeling-languages.com/list-modeling-books/
++ https://modeling-languages.com/aadl-practice/
++ https://modeling-languages.com/list-ocl-books/
 
 
 
@@ -103,6 +136,34 @@ Resources for *Graphviz*
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	*UMLGraph*
+
+
+Resources for *UMLGraph*:
++ https://www2.dmst.aueb.gr/dds/umlgraph/download.html
++ https://www2.dmst.aueb.gr/dds/umlgraph/doc/indexw.html
++ https://www2.dmst.aueb.gr/dds/umlgraph/doc.html
+- https://secweb.cs.odu.edu/~zeil/cs330/web/website/Info/umlgraph/html/umlgraph.html
++ poor resources:
+	- http://wiki.wsmoak.net/cgi-bin/wiki.pl?action=browse&diff=1&id=UMLGraph&revision=63
+	- http://www.frinklang.org/ape/javalibs/UMLGraph/doc/cd-oper.html
+	- http://projetos.edugraf.ufsc.br/2011/1/convidado/jgzeni/ProjetoFinal/JogoDeCartas/002/bin/src/UMLGraph-5.4/doc/cd-oper.html
+	- http://plantuml.com/class-diagram
 
 
 

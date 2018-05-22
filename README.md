@@ -118,6 +118,7 @@ Resources for *Graphviz*:
 
 Resources for *PlantUML*:
 + http://plantuml.com/download
++ http://plantuml.com/class-diagram
 + http://plantuml.com/activity-diagram-legacy
 + https://en.wikipedia.org/wiki/PlantUML
 + http://www.wilkening-online.de/programmieren/c++-user-treffen-aachen/2016_05_12/PlantUML_GeorgHellack.pdf
@@ -169,7 +170,9 @@ Resources for *UMLGraph*:
 	- Includes a list of advantages of creating UML models using a "declarative,
 		textual notation"
 + https://www2.dmst.aueb.gr/dds/umlgraph/doc.html
-- https://secweb.cs.odu.edu/~zeil/cs330/web/website/Info/umlgraph/html/umlgraph.html
++ https://www.spinellis.gr/umlgraph/
++ https://github.com/dspinellis/UMLGraph
++ https://secweb.cs.odu.edu/~zeil/cs330/web/website/Info/umlgraph/html/umlgraph.html
 + poor resources:
 	- http://wiki.wsmoak.net/cgi-bin/wiki.pl?action=browse&diff=1&id=UMLGraph&revision=63
 	- http://www.frinklang.org/ape/javalibs/UMLGraph/doc/cd-oper.html

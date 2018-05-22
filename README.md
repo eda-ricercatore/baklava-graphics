@@ -90,7 +90,8 @@ Resources for *MetaPost*:
 
 ##	*Graphviz*
 
-
+I have installed *Graphviz* on my computer; it can be run from the command line
+	using **dot**.
 
 Resources for *Graphviz*:
 + Viewer for *Graphviz* online: http://www.webgraphviz.com
@@ -154,9 +155,19 @@ Resources for *PlantUML*:
 ##	*UMLGraph*
 
 
+Author's note: I have problems installing and using *UMLGraph* to declaratively
+	specification and drawing of *UML* class and sequence diagrams.
++ **Mission to use *UMLGraph* to declaratively specify and draw *UML* class and
+	sequence diagrams is abandoned.** 
+
+
+
+
 Resources for *UMLGraph*:
 + https://www2.dmst.aueb.gr/dds/umlgraph/download.html
 + https://www2.dmst.aueb.gr/dds/umlgraph/doc/indexw.html
+	- Includes a list of advantages of creating UML models using a "declarative,
+		textual notation"
 + https://www2.dmst.aueb.gr/dds/umlgraph/doc.html
 - https://secweb.cs.odu.edu/~zeil/cs330/web/website/Info/umlgraph/html/umlgraph.html
 + poor resources:

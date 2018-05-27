@@ -128,7 +128,7 @@ Resources for *PlantUML*:
 + https://modeling-languages.com/list-modeling-books/
 + https://modeling-languages.com/aadl-practice/
 + https://modeling-languages.com/list-ocl-books/
-
++ https://sourceforge.net/projects/plantuml/?source=typ_redirect
 
 
 
